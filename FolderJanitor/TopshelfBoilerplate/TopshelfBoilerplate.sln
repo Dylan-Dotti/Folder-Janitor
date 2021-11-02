@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.31025.194
+VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FolderJanitor", "FolderJanitor\FolderJanitor.csproj", "{30DFE535-1C6B-4251-99EE-6B1CFEA4A764}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopshelfBoilerplate", "TopshelfBoilerplate\TopshelfBoilerplate\TopshelfBoilerplate.csproj", "{3435E4C2-C547-4103-9EF4-EA3281A0B1DD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopshelfBoilerplate", "TopshelfBoilerplate\TopshelfBoilerplate.csproj", "{3435E4C2-C547-4103-9EF4-EA3281A0B1DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{30DFE535-1C6B-4251-99EE-6B1CFEA4A764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{30DFE535-1C6B-4251-99EE-6B1CFEA4A764}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{30DFE535-1C6B-4251-99EE-6B1CFEA4A764}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{30DFE535-1C6B-4251-99EE-6B1CFEA4A764}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3435E4C2-C547-4103-9EF4-EA3281A0B1DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3435E4C2-C547-4103-9EF4-EA3281A0B1DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3435E4C2-C547-4103-9EF4-EA3281A0B1DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -26,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {94DA3075-F403-42FB-83EC-2467008FFFE8}
+		SolutionGuid = {8476F867-7E62-4EC0-A978-E50D72E1BCA4}
 	EndGlobalSection
 EndGlobal

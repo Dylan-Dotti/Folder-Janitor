@@ -1,0 +1,7 @@
+C:\Users\h4dottd\Documents\GitHub\Folder-Janitor\FolderJanitor\FolderJanitor\bin\Debug\FolderJanitor.exe.config
+C:\Users\h4dottd\Documents\GitHub\Folder-Janitor\FolderJanitor\FolderJanitor\bin\Debug\FolderJanitor.exe
+C:\Users\h4dottd\Documents\GitHub\Folder-Janitor\FolderJanitor\FolderJanitor\bin\Debug\FolderJanitor.pdb
+C:\Users\h4dottd\Documents\GitHub\Folder-Janitor\FolderJanitor\FolderJanitor\obj\Debug\FolderJanitor.csprojAssemblyReference.cache
+C:\Users\h4dottd\Documents\GitHub\Folder-Janitor\FolderJanitor\FolderJanitor\obj\Debug\FolderJanitor.csproj.CoreCompileInputs.cache
+C:\Users\h4dottd\Documents\GitHub\Folder-Janitor\FolderJanitor\FolderJanitor\obj\Debug\FolderJanitor.exe
+C:\Users\h4dottd\Documents\GitHub\Folder-Janitor\FolderJanitor\FolderJanitor\obj\Debug\FolderJanitor.pdb

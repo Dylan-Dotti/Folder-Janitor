@@ -1,0 +1,18 @@
+C:\Users\h4dottd\Documents\GitHub\ServerBouncer\TopshelfBoilerplate\TopshelfBoilerplate\bin\Debug\TopshelfBoilerplate.dll
+C:\Users\h4dottd\Documents\GitHub\ServerBouncer\TopshelfBoilerplate\TopshelfBoilerplate\bin\Debug\TopshelfBoilerplate.pdb
+C:\Users\h4dottd\Documents\GitHub\ServerBouncer\TopshelfBoilerplate\TopshelfBoilerplate\bin\Debug\Topshelf.dll
+C:\Users\h4dottd\Documents\GitHub\ServerBouncer\TopshelfBoilerplate\TopshelfBoilerplate\bin\Debug\Topshelf.xml
+C:\Users\h4dottd\Documents\GitHub\ServerBouncer\TopshelfBoilerplate\TopshelfBoilerplate\obj\Debug\TopshelfBoilerplate.csprojAssemblyReference.cache
+C:\Users\h4dottd\Documents\GitHub\ServerBouncer\TopshelfBoilerplate\TopshelfBoilerplate\obj\Debug\TopshelfBoilerplate.csproj.CoreCompileInputs.cache
+C:\Users\h4dottd\Documents\GitHub\ServerBouncer\TopshelfBoilerplate\TopshelfBoilerplate\obj\Debug\TopshelfBoilerplate.csproj.CopyComplete
+C:\Users\h4dottd\Documents\GitHub\ServerBouncer\TopshelfBoilerplate\TopshelfBoilerplate\obj\Debug\TopshelfBoilerplate.dll
+C:\Users\h4dottd\Documents\GitHub\ServerBouncer\TopshelfBoilerplate\TopshelfBoilerplate\obj\Debug\TopshelfBoilerplate.pdb
+C:\Users\h4dottd\Documents\NET Projects\TopshelfBoilerplate\TopshelfBoilerplate\bin\Debug\TopshelfBoilerplate.dll
+C:\Users\h4dottd\Documents\NET Projects\TopshelfBoilerplate\TopshelfBoilerplate\bin\Debug\TopshelfBoilerplate.pdb
+C:\Users\h4dottd\Documents\NET Projects\TopshelfBoilerplate\TopshelfBoilerplate\bin\Debug\Topshelf.dll
+C:\Users\h4dottd\Documents\NET Projects\TopshelfBoilerplate\TopshelfBoilerplate\bin\Debug\Topshelf.xml
+C:\Users\h4dottd\Documents\NET Projects\TopshelfBoilerplate\TopshelfBoilerplate\obj\Debug\TopshelfBoilerplate.csprojAssemblyReference.cache
+C:\Users\h4dottd\Documents\NET Projects\TopshelfBoilerplate\TopshelfBoilerplate\obj\Debug\TopshelfBoilerplate.csproj.CoreCompileInputs.cache
+C:\Users\h4dottd\Documents\NET Projects\TopshelfBoilerplate\TopshelfBoilerplate\obj\Debug\TopshelfBoilerplate.csproj.CopyComplete
+C:\Users\h4dottd\Documents\NET Projects\TopshelfBoilerplate\TopshelfBoilerplate\obj\Debug\TopshelfBoilerplate.dll
+C:\Users\h4dottd\Documents\NET Projects\TopshelfBoilerplate\TopshelfBoilerplate\obj\Debug\TopshelfBoilerplate.pdb
