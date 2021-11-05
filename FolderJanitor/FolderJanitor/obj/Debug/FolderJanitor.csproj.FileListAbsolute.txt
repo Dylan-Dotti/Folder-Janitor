@@ -5,3 +5,8 @@ C:\Users\h4dottd\Documents\GitHub\Folder-Janitor\FolderJanitor\FolderJanitor\obj
 C:\Users\h4dottd\Documents\GitHub\Folder-Janitor\FolderJanitor\FolderJanitor\obj\Debug\FolderJanitor.csproj.CoreCompileInputs.cache
 C:\Users\h4dottd\Documents\GitHub\Folder-Janitor\FolderJanitor\FolderJanitor\obj\Debug\FolderJanitor.exe
 C:\Users\h4dottd\Documents\GitHub\Folder-Janitor\FolderJanitor\FolderJanitor\obj\Debug\FolderJanitor.pdb
+C:\Users\h4dottd\Documents\GitHub\Folder-Janitor\FolderJanitor\FolderJanitor\bin\Debug\TopshelfBoilerplate.dll
+C:\Users\h4dottd\Documents\GitHub\Folder-Janitor\FolderJanitor\FolderJanitor\bin\Debug\Topshelf.dll
+C:\Users\h4dottd\Documents\GitHub\Folder-Janitor\FolderJanitor\FolderJanitor\bin\Debug\TopshelfBoilerplate.pdb
+C:\Users\h4dottd\Documents\GitHub\Folder-Janitor\FolderJanitor\FolderJanitor\bin\Debug\Topshelf.xml
+C:\Users\h4dottd\Documents\GitHub\Folder-Janitor\FolderJanitor\FolderJanitor\obj\Debug\FolderJanitor.csproj.CopyComplete
